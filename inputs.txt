@@ -1,0 +1,4 @@
+PRINTER_NAME = ""
+GOOGLE_INVENTORY_SHEET_NAME = ""
+GOOGLE_TRANSACTIONS_SHEET_NAME = ""
+COLUMNS_FOR_GOOGLE_INVENTORY = "[]" (Options: Name, Barcode, S.Price, P.Price, Online_Price, Quantity, Tax)
